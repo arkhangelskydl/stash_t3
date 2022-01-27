@@ -1,2 +1,6 @@
 1 st string
+<<<<<<< Updated upstream
 br4
+=======
+br5
+>>>>>>> Stashed changes
