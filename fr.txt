@@ -4,4 +4,8 @@ br4
 =======
 br5
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 stash 2
+=======
+stash 1
+>>>>>>> Stashed changes
