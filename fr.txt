@@ -1,2 +1,11 @@
 1 st string
+<<<<<<< Updated upstream
 br5
+=======
+<<<<<<< Updated upstream
+br4
+=======
+br5
+>>>>>>> Stashed changes
+stash 2
+>>>>>>> Stashed changes
