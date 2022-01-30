@@ -1,0 +1,7 @@
+1 st string
+br1
+<<<<<<< HEAD
+br2 --- by br1
+=======
+br2 --- in br 2
+>>>>>>> br2
